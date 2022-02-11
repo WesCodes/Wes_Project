@@ -19,7 +19,7 @@ Until now, users would get stuck if an audio file was empty, and be unlikely to 
 
 _**Slight rework to improve sidemenu toggle**_
 
-This was a quality of life fix. Added ability to turn sidemenu on or off without also turning off or on the reference tab. Before, the sidemenu must be turned on if you want the reference tab to be turned on. 
+This was a quality of life fix. Added ability to turn sidemenu on or off without also turning off or on the reference tab. Before, the sidemenu must be turned on if you want the reference tab to be turned on. To test this feature, go into the admin panel of Pyrenote. Assuming you have a project created already (create one if not), click on the icon with three parallel bars accompanies by three dots. Hovering over the icon should give a text of, "Turn on or off annotation features". If you select the reference window option without also selecting the sidemenu option, the reference window should still show up in the annotation page.
 
 ![Image]()
 
