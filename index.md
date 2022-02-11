@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Pyrenote Development
 
-You can use the [editor on GitHub](https://github.com/WesCodes/Wes_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What is Pyrenote
+Pyrenote is a website used to collect manual annotations of bird audio clips. Users are given bird audio clips and are tasked with annotating segments in the audio in which the specified bird appears.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The importance of this manual labeling process and Pyrenote as a whole lies in the importance of birds themselves. Birds are a very good environmental health indicator. The linkage between certain bird species and their habitats make them useful in identifying the health of an ecosystem. With these annotations, machine learning researchers can build bird classifiers based on their sound which will makes it very easy to quickly identify how an ecosystem is doing without the tedious process of manually identifying birds.
 
-### Markdown
+### What I do
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm one of the developers for Pyrenote. Currently, my main responsibility is to resolve Pyrenote's GitHub pull requests.
 
-```markdown
-Syntax highlighted code block
+### What I have completed
 
-# Header 1
-## Header 2
-### Header 3
+_**Implemented a "No Revelant Audio" button**_
 
-- Bulleted
-- List
+Until now, users would get stuck if an audio file was empty, and be unlikely to contribute further. By adding a "No Revelant Audio" button, the user experience for annotating audio recordings will be more streamlined. By clicking on the button, a “No Class of Classification” label will be created for the corresponding audio recording. This additional label will also allow easy filtering in the data preprocessing stage.
 
-1. Numbered
-2. List
+![Image]()
 
-**Bold** and _Italic_ and `Code` text
+_**Slight rework to improve sidemenu toggle**_
 
-[Link](url) and ![Image](src)
-```
+This was a quality of life fix. Added ability to turn sidemenu on or off without also turning off or on the reference tab. Before, the sidemenu must be turned on if you want the reference tab to be turned on. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Image]()
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WesCodes/Wes_Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### How to view what I have completed
 
-### Support or Contact
+![Link](https://github.com/UCSD-E4E/Pyrenote)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Go to the link above and follow the instructions in the readme.md to get Pyrenote set up on your computer.
