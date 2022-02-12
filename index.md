@@ -27,6 +27,6 @@ This was a quality of life fix. Added ability to turn sidemenu on or off without
 
 ### How to view what I have completed
 
-![Link](https://github.com/UCSD-E4E/Pyrenote)
+[Pyrenote GitHub](https://github.com/UCSD-E4E/Pyrenote)
 
 Go to the link above and follow the instructions in the readme.md to get Pyrenote set up on your computer.
