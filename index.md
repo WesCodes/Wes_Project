@@ -34,6 +34,11 @@ If an admin wanted to declutter the created projects in the admin panel, there w
 ![Image](https://user-images.githubusercontent.com/21050768/156822743-ec2542e1-2b75-4a65-85f0-357e47f46c31.png)
 ![Alt Text](https://user-images.githubusercontent.com/21050768/156822869-fca02ebe-714f-4d2c-814d-a41e9f287cb1.gif)
 
+
+### Why am I doing the things I'm doing
+The three features I have worked on will help booster scalability of Pyrenote for future projects as we become more ambitious with the number of users we bring to the site.
+Aside from its scabaility benefit, the "No Revelant Audio" will allow researchers to conveniently inspect and handle audio files with zero audio events which may help scientists more quickly identify potential ecosystem concerns and take action.
+
 ### How to view what I have completed
 
 [Pyrenote GitHub](https://github.com/UCSD-E4E/Pyrenote)
