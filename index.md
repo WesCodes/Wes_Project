@@ -36,7 +36,7 @@ If an admin wanted to declutter the created projects in the admin panel, there w
 
 
 ### Why am I doing the things I'm doing
-The three features I have worked on will help boost the scalability of Pyrenote for future projects as we become more ambitious with the number of users we bring to the site. Aside from its scalability benefit, the "No Relevant Audio" will allow researchers to conveniently inspect and handle audio files with zero audio events which may help scientists more quickly identify potential ecosystem concerns and take action.
+The three features I have worked on will help boost the scalability of Pyrenote for future projects as we become more ambitious with the number of users we bring to the site. Aside from its scalability benefit, the "No Relevant Audio" will allow researchers to conveniently inspect and handle audio files with zero audio events which may help improve quality in the annotation data. This potential improvement of annotation data quality can lead to a more accurate machine learning classifier and help scientists more quickly identify potential ecosystem concerns and take action through the use of machine learning classifiers. 
 
 ### How to view what I have completed
 
