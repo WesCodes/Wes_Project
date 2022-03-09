@@ -29,7 +29,7 @@ _**Slight rework to improve sidemenu toggle**_
 This was a quality of life fix. Added ability to turn sidemenu on or off without also turning off or on the reference tab. Before, the sidemenu must be turned on if you want the reference tab to be turned on. To test this feature, go into the admin panel of Pyrenote. Assuming you have a project created already (create one if not), click on the icon with three parallel bars accompanies by three dots. Hovering over the icon should give a text of, "Turn on or off annotation features". If you select the reference window option without also selecting the sidemenu option, the reference window should still show up in the annotation page.
 
 ![Image](https://user-images.githubusercontent.com/21050768/153685818-053752e4-0c50-4796-8f52-ee887e7bfe9a.png)
-This is the setting used for both images.
+Same setting used in before and after the rework to the side menu
 
 _**Before**_
 ![Image](https://user-images.githubusercontent.com/21050768/157359700-877001ab-87aa-4cda-8f3f-aa6d18ecdb42.png)
